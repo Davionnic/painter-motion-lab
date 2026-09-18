@@ -1,15 +1,21 @@
 # Painter Motion Lab
 
-The Cursor **mobile app cannot download** this project.
+Unity **6 (6000.0 LTS)** 2D animation showcase.
 
-## Get the zip on a phone
+## Open in Unity 6
 
-Open **Safari or Chrome** (not the Cursor app) and sign in:
+1. Install Unity 6000.0 LTS (or later Unity 6) from Unity Hub.
+2. Add this project folder and open `Assets/Scenes/PainterShowcase.unity`.
+3. Press Play.
+
+## Phone download
+
+The Cursor mobile app cannot save the zip. In Safari or Chrome, open:
 
 https://cursor.com/codebase/dave-andrei-almia-gallo/painter-motion-lab
 
-In the file list, tap **PainterShowcase.zip** (about 1.3 MB).
+Tap **PainterShowcase.zip** in the file list.
 
-This GitHub page is only a pointer. The Unity project zip lives in that Cursor repo file, not in this GitHub Download ZIP yet.
+## Controls
 
-You still need a computer with Unity 2022.3 LTS (or later) to open the project.
+Arrow keys / A D move, Space jump, Z ground attack, X air attack.
