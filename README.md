@@ -1,20 +1,15 @@
 # Painter Motion Lab
 
-Unity 2D animation showcase (walk, jump, ground attack, air attack).
+The Cursor **mobile app cannot download** this project.
 
-## Download on a phone
+## Get the zip on a phone
 
-This GitHub repo is **public** so you can download without the Cursor app.
+Open **Safari or Chrome** (not the Cursor app) and sign in:
 
-1. Open this page in **Safari or Chrome** (not the Cursor app):
-   https://github.com/Davionnic/painter-motion-lab
-2. Tap the green **Code** button.
-3. Tap **Download ZIP**.
-
-Direct ZIP of this GitHub repo:
-https://github.com/Davionnic/painter-motion-lab/archive/refs/heads/main.zip
-
-You still need a computer with Unity 2022.3 LTS (or later) to open the project. It will not run inside the phone.
-
-If this GitHub copy is still empty, the zip is also in the Cursor repo as `PainterShowcase.zip`:
 https://cursor.com/codebase/dave-andrei-almia-gallo/painter-motion-lab
+
+In the file list, tap **PainterShowcase.zip** (about 1.3 MB).
+
+This GitHub page is only a pointer. The Unity project zip lives in that Cursor repo file, not in this GitHub Download ZIP yet.
+
+You still need a computer with Unity 2022.3 LTS (or later) to open the project.
